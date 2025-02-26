@@ -1,0 +1,11 @@
+# Satz endet mit " Bob"
+$ $B$o$b
+
+# Vor " Bob" könnte ein Sonderzeichen kommen
+$,$ $B$o$b
+
+$.$ $B$o$b
+
+$?$ $B$o$b
+
+$!$ $B$o$b
